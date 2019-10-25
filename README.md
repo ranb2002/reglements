@@ -96,9 +96,16 @@ L’avis de convocation de toute assemblée du Conseil d’Administration peut �
 ### ARTICLE 4.9 - Quorum et vote
 Une majorité des membres en exercice du Conseil d’Administration doit être présente à chaque assemblée pour constituer le quorum requis pour l’assemblée. Toutes les questions soumises sont décidées à la majorité simple des voix, chaque membre du Conseil d’Administration ayant droit à un seul vote. Cependant, en cas d’égalité des voix, le président d’assemblée du Conseil d’Administration à droit à un vote prépondérant.
 
+### ARTICLE 4.10 - Destitution d'un administrateur
+Le conseil d'administration peut décider de destituer un administrateur lors de son mandat si les conditions suivantes sont remplies :
+* l'administrateur est absent pendant deux mois (ou à deux (2) rencontres consécutives espacées de plus de deux mois), sans arrangement préalable avec le conseil d'administration;
+* l'administrateur ne répond pas à un avis formel envoyé à son adresse courriel personnel dans un délai de 14 jours;
+* la majorité du conseil d'administration présent vote en faveur de cette destitution.
+
+
 ## SECTION V - Les officiers
 ### ARTICLE 5.1 - Désignation des officiers
-Les officiers de la communauté qui forment le comité exécutif sont: le président, le vice-président, le secrétaire et le trésorier. Ces différents postes sont choisis par les candidats lors d’une réunion du Conseil d’Administration tenue dans les l0 jours suivants l’assemblée générale annuelle des membres.
+Les officiers de la communauté qui forment le comité exécutif sont: le président, le vice-président, le secrétaire et le trésorier. Ces différents postes sont choisis par les candidats lors d’une réunion du Conseil d’Administration tenue dans les l0 jours suivants l’assemblée générale annuelle des membres. Le terme d’office pour l’officier est de 1 an, renouvelable.
 
 ### ARTICLE 5.2 - Délégation de pouvoirs
 Au cas d’absence ou d’incapacité de tout officier de la communauté ou pour toute autre raison jugée suffisante par le Conseil d’Administration, ce dernier pourra déléguer les pouvoirs de tel officier à tout autre officier ou à tout membre du Conseil d’Administration.
