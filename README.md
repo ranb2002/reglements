@@ -19,11 +19,11 @@ Sa création a été principalement motivée par les trois aspects suivants:
 La communauté s’est donnée comme mission de:
 * Promouvoir la philosophie et l’approche Agile comme modèle d’organisation dans les entreprises TI et autres à Sherbrooke;
 * Créer une communauté de pratique Agile à Sherbrooke;
-* Partager les expériences d’implémentation des pratiques Agile;
+* Partager les expériences d’implémentation des pratiques agiles;
 * Développer une meilleure compréhension des différentes méthodes agiles;
-* Favoriser et soutenir les échanges d’idées, de connaissance et d’expériences entre les membres;
+* Favoriser et soutenir les échanges d’idées, de connaissances et d’expériences entre les membres;
 * Suivre et discuter de l’évolution des meilleures pratiques agiles;
-* Participer à l’amélioration des pratiques Agile;
+* Participer à l’amélioration des pratiques agiles;
 * Favoriser la participation des membres et des experts du domaine à titre de conférenciers.
 
 La communauté vise entre autres comme clientèle les propriétaires d’entreprises en TI, les gestionnaires d’équipes en TI, les chargés de projet, les architectes, les analystes et les développeurs, utilisant une ou plusieurs méthodes agiles ou intéressés à les utiliser.
@@ -53,7 +53,7 @@ Le conseil d’administration peut, s’il le juge à propos, fixer le droit d�
 L’assemblée générale annuelle a lieu à l’endroit que le conseil d’administration détermine, dans les quatre-vingt-dix (90) jours qui suivent la fin de l’année financière, à la date et à l’heure fixée par le conseil d’administration.
 
 ### ARTICLE 3.2 - Assemblées spéciales
-Une assemblée générale spéciale des membres peut-être tenue lorsque les circonstances l’exigent. Il est loisible au président ou au conseil d’administration de convoquer une telle assemblée. De plus, le secrétaire est tenu de convoquer une assemblée générale spéciale des membres sur réquisition à cette fin, par écrit, signée par au moins quinze (15) membres en règle, et cela dans les huit (8) jours suivant la réception d’une telle demande écrite qui spécifie le but et les objets d’une telle assemblée spéciale. A défaut par le secrétaire de convoquer qu’une telle assemblée dans le délai stipulé, celle-ci peut être convoquée par les signataires eux-mêmes de la demande écrite.
+Une assemblée générale spéciale des membres peut être tenue lorsque les circonstances l’exigent. Il est loisible au président ou au conseil d’administration de convoquer une telle assemblée. De plus, le secrétaire est tenu de convoquer une assemblée générale spéciale des membres sur réquisition à cette fin, par écrit, signée par au moins quinze (15) membres en règle, et cela dans les huit (8) jours suivant la réception d’une telle demande écrite qui spécifie le but et les objets d’une telle assemblée spéciale. A défaut par le secrétaire de convoquer qu’une telle assemblée dans le délai stipulé, celle-ci peut être convoquée par les signataires eux-mêmes de la demande écrite.
 
 ### ARTICLE 3.3 - Avis de convocation
 Toute assemblée des membres est convoquée au moyen d’un avis écrit, envoyé à chaque membre de la communauté indiquant la date, l’heure, l’endroit et les buts de l’assemblée. Dans le cas d’une assemblée générale spéciale, l’avis doit mentionner de façon précise les affaires qui y seront transigées. Le délai de convocation de toute assemblée des membres est de trois (3) jours, sauf dans le cas d’urgence où ce délai peut de quarante-huit (48) heures. La présence d’un membre à une assemblée quelconque couvre le défaut d’avis à ce membre.
@@ -74,7 +74,7 @@ Tout membre du conseil d’administration entre en fonction à la clôture de l�
 ### ARTICLE 4.3 - Procédure d’élection
 Le président d’assemblée procède d’abord à la période de mise en nomination pour le poste de président d’élection. Chaque candidat doit être proposé par un membre et appuyé par un autre membre. Le président d’assemblée demande ensuite à chaque candidat s’il accepte le poste de président d’élection. Si un seul candidat accepte, il est élu par acclamation. Si plusieurs candidats acceptent, l’assemblée passe au vote. Le candidat ayant le plus de voix est déclaré élu. En cas d’égalité des voix, l’assemblée doit voter à nouveau jusqu’à ce que l’égalité soit brisée en faveur d’un candidat. Ce dernier est alors déclaré élu.
 
-Le président d’élection n’a pas droit de vote. Le président doit choisir un scrutateur selon la procédure décrite au présent paragraphe. Le président d’élection procède d’abord à la période de mise en nomination. Chaque candidat doit être proposé par un membre et appuyé par un autre membre. Lorsque la période de mise en nomination est close, le président d’élection demande à chaque candidat s’il accepte d’être mis en nomination. S’il y a plus de candidats que de postes ouverts, le président d’élection procède alors au vote secret, nonobstant l’ « ### ARTICLE 3.5 - Vote » des présents règlements généraux. Les candidats ayant obtenu le plus de voix sont déclarés élus. S’il y a égalité, l’assemblée doit voter à nouveau jusqu’à ce que l’égalité soit brisée en faveur d’un candidat. Ce dernier est alors déclaré élu.
+Le président d’élection n’a pas droit de vote. Le président doit choisir un scrutateur selon la procédure décrite au présent paragraphe. Le président d’élection procède d’abord à la période de mise en nomination. Chaque candidat doit être proposé par un membre et appuyé par un autre membre. Lorsque la période de mise en nomination est close, le président d’élection demande à chaque candidat s’il accepte d’être mis en nomination. S’il y a plus de candidats que de postes ouverts, le président d’élection procède alors au vote secret, nonobstant l’« ARTICLE 3.5 - Vote » des présents règlements généraux. Les candidats ayant obtenu le plus de voix sont déclarés élus. S’il y a égalité, l’assemblée doit voter à nouveau jusqu’à ce que l’égalité soit brisée en faveur d’un candidat. Ce dernier est alors déclaré élu.
 
 Le secrétaire d’élection doit rédiger un procès-verbal de l’élection qui sera ajouté au procès-verbal de l’assemblée générale.
 
@@ -94,7 +94,7 @@ Les réunions du Conseil d’Administration sont convoquées par le secrétaire,
 L’avis de convocation de toute assemblée du Conseil d’Administration peut être verbal. Le délai de convocation est d’au moins vingt-quatre (24) heures, mais en cas d’urgence ce délai pourra n’être que de deux (2) heures. Si tous les membres du Conseil d’Administration sont présents à une assemblée ou y consentent par écrit, toute assemblée peut avoir lieu sans aucun avis préalable de convocation.
 
 ### ARTICLE 4.9 - Quorum et vote
-Une majorité des membres en exercice du Conseil d’Administration doit être présente à chaque assemblée pour constituer le quorum requis pour l’assemblée. Toutes les questions soumises sont décidées à la majorité simple des voix, chaque membre du Conseil d’Administration ayant droit à un seul vote. Cependant, en cas d’égalité des voix, le président d’assemblée du Conseil d’Administration à droit à un vote prépondérant.
+Une majorité des membres en exercice du Conseil d’Administration doit être présente à chaque assemblée pour constituer le quorum requis pour l’assemblée. Toutes les questions soumises sont décidées à la majorité simple des voix, chaque membre du Conseil d’Administration ayant droit à un seul vote. Cependant, en cas d’égalité des voix, le président d’assemblée du Conseil d’Administration a droit à un vote prépondérant.
 
 ### ARTICLE 4.10 - Destitution d'un administrateur
 Le conseil d'administration peut décider de destituer un administrateur lors de son mandat si les conditions suivantes sont remplies :
@@ -105,19 +105,19 @@ Le conseil d'administration peut décider de destituer un administrateur lors de
 
 ## SECTION V - Les officiers
 ### ARTICLE 5.1 - Désignation des officiers
-Les officiers de la communauté qui forment le comité exécutif sont: le président, le vice-président, le secrétaire et le trésorier. Ces différents postes sont choisis par les candidats lors d’une réunion du Conseil d’Administration tenue dans les l0 jours suivants l’assemblée générale annuelle des membres. Le terme d’office pour l’officier est de 1 an, renouvelable.
+Les officiers de la communauté qui forment le comité exécutif sont: le président, le vice-président, le secrétaire et le trésorier. Ces différents postes sont choisis par les candidats lors d’une réunion du Conseil d’Administration tenue dans les 10 jours suivants l’assemblée générale annuelle des membres. Le terme d’office pour l’officier est de 1 an, renouvelable.
 
 ### ARTICLE 5.2 - Délégation de pouvoirs
 Au cas d’absence ou d’incapacité de tout officier de la communauté ou pour toute autre raison jugée suffisante par le Conseil d’Administration, ce dernier pourra déléguer les pouvoirs de tel officier à tout autre officier ou à tout membre du Conseil d’Administration.
 
 ### ARTICLE 5.3 - Président
-Le président préside toute les assemblées du Conseil d’Administration et des membres. Il peut aussi désigner un président d’assemblée. Le président voit à l’exécution des décisions du Conseil d’Administration, signe tous les documents requérant sa signature et remplit tous les devoirs inhérents à sa charge de même qu’il exerce tous les pouvoirs qui peuvent de temps à autre lui être attribués par le Conseil d’Administration.
+Le président préside toutes les assemblées du Conseil d’Administration et des membres. Il peut aussi désigner un président d’assemblée. Le président voit à l’exécution des décisions du Conseil d’Administration, signe tous les documents requérant sa signature et remplit tous les devoirs inhérents à sa charge de même qu’il exerce tous les pouvoirs qui peuvent de temps à autre lui être attribués par le Conseil d’Administration.
 
 ### ARTICLE 5.4 - Vice-Président
 En cas d’absence ou d’incapacité d’agir du président, le vice-président le remplace et exerce tous ses pouvoirs et toutes ses fonctions.
 
 ### ARTICLE 5.5 - Secrétaire
-Le secrétaire assiste à toutes les assemblées des membres et du Conseil d’Administration et il en rédige les procès verbaux. Il remplit toutes les autres fonctions qui lui sont attribuées par les présents règlements ou par le Conseil d’Administration. Il a la garde de son livre des minutes et de tous les autres registres corporatifs.
+Le secrétaire assiste à toutes les assemblées des membres et du Conseil d’Administration et il en rédige les procès-verbaux. Il remplit toutes les autres fonctions qui lui sont attribuées par les présents règlements ou par le Conseil d’Administration. Il a la garde de son livre des minutes et de tous les autres registres corporatifs.
 
 ### ARTICLE 5.6 - Trésorier
 Le trésorier a la charge et la garde des fonds de la communauté et de ses livres de comptabilité. Il tient un relevé précis des biens, des dettes, des recettes et des déboursés de la communauté dans un ou des livres appropriés à cette fin. Il dépose dans une institution financière déterminée par le Conseil d’Administration les deniers de la communauté.
