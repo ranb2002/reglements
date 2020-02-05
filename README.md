@@ -40,13 +40,35 @@ Le siège social de la communauté est situé dans la ville de Sherbrooke.
 ### ARTICLE 1.6 - Affiliation
 La communauté peut par résolution de son conseil d’administration adhérer à, s’affilier ou collaborer avec tout organisme public ou privé dans la poursuite d’intérêts communs conformes à ses objectifs.
 
+## SECTION II — Membres
+### ARTICLE 2.1 — Adhésion
+Toute personne physique intéressée par les buts et activités de l’organisation peut devenir **membre** en se conformant aux conditions suivantes :
+1. avoir 18 ans et plus;
+1. satisfaire à toute autre condition que peut décréter le conseil d’administration par voie de règlement.
 
-## SECTION II - Les membres
-### ARTICLE 2.1 - Admission
-Toute personne intéressée aux pratiques de développement logiciel Agile peut devenir membre. Il n’y a pas de cotisation, de carte de membre ou avantage particulier à être membre. Les membres sont inscrits dans la liste de diffusion des activités de la communauté pour être adéquatement informés des activités à venir. Les membres peuvent mettre fin à leur adhésion et du même coup quitter la liste de diffusion quand ils le veulent en faisant la demande à la communauté.
+### ARTICLE 2.2 — Droits
+Chaque membre a droit :
+1. de recevoir un avis de toutes les assemblées des membres de l'organisme, d'assister à ces assemblées et d'y exercer son droit de vote;
+1. de recevoir un avis pour toutes les activités organisées ou promues par l’organisation, d’y participer en respectant les modalités, s’il y a lieu, qui leur sont respectivement associées;
+1. de se porter candidat aux différents postes prévus par le présent document.
 
-### DROIT D’ADHÉSION ET COTISATION ANNUELLE
-Le conseil d’administration peut, s’il le juge à propos, fixer le droit d’adhésion et le montant de cotisation annuelle des membres de l’organisme de même que le moment, le lieu et la manière d’en effectuer le paiement. Le droit d’adhésion et le montant de cotisation doivent être approuvés par l’assemblée annuelle des membres ou par le conseil d’administration selon le désir des membres. Le cas échéant, un avis de cotisation doit être expédié **au moins 30 jours avant l’assemblée annuelle des membres** de l’organisme.
+### ARTICLE 2.3 — Fin de l’adhésion
+Le statut de membre de l'organisation prend fin dans l'un ou l'autre des cas suivants :
+* le décès du membre;
+* la démission du membre;
+* la suspension ou l’expulsion du membre par le conseil d’administration;
+* la liquidation ou la dissolution de l'organisation en vertu de la Loi. 
+
+### ARTICLE 2.4 — Expulsion
+Le conseil d’administration peut, par résolution, suspendre ou expulser pour une période qu’il détermine tout membre qui refuse ou omet de se conformer aux dispositions des présents règlements, qui agit contrairement aux intérêts de l’organisation ou dont la conduite est jugée contraire aux buts de l’organisation. 
+
+Constitue notamment une conduite préjudiciable le fait :
+* d’avoir été accusé ou condamné pour une infraction au Code criminel; 
+* de critiquer de façon intempestive et répétée l’organisation;
+* de porter des accusations fausses et mensongères à l’endroit de l’organisation; 
+* d’agir au nom de l’organisation sans une autorisation du conseil d’administration.
+
+Le conseil d’administration est autorisé à adopter et à suivre en cette matière la procédure qu’il pourra éventuellement déterminer, pour autant que le membre visé soit informé de la nature exacte de l’acte ou de l’omission qu’on lui reproche, qu’il ait l’occasion de se faire entendre sur ce sujet et que la décision le concernant soit prise avec impartialité. La délibération se fera à huis clos. La décision du conseil d’administration à cette fin sera finale et sans appel.
 
 ## SECTION III - Assemblées des membres
 ### ARTICLE 3.1 - Assemblée annuelle
